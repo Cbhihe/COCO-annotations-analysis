@@ -11,6 +11,6 @@ The notebook contains a description of Python package requirements
 
 ### Copyright and licensing information:
 
-Copyright (c) 2021, 2022 Cedric Bhihe (cedric dot bhihe at gmail dot com)
+Copyright (c) 2021, 2022 Cedric Bhihe
 
 Cbhihe/Coco_annotations is licensed under the GNU General Public License v3.0.  The license terms can be consultedin the adjoined document under ***License.md***.  Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
