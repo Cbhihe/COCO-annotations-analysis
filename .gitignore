@@ -1,0 +1,9 @@
+# EXCLUDE ALL
+*
+# EXCEPT
+!/cocoapi/
+!/cocoapi/Readme.txt
+!/*.md
+!/[0-9][0-9]_*.ipynb
+!/.python-version
+!/.gitignore
