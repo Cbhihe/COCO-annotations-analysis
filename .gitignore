@@ -2,7 +2,7 @@
 *
 # EXCEPT
 !/cocoapi/
-!/cocoapi/Readme.txt
+!/cocoapi/Readme.*
 !/*.md
 !/[0-9][0-9]_*.ipynb
 !/.python-version
